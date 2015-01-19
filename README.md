@@ -12,3 +12,5 @@ Just put the üath to the script into a crontab
 Alternately you can put it into your **/etc/rc.local** like this:
 
     /home/user/resolver.sh
+
+If you want to change the hostname of your container permanently, too use [this](https://github.com/MrAwesomeBro/hostname-sh).
